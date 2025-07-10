@@ -50,3 +50,6 @@ Google Colab, Jupyter Notebook
 
 📊 Results
 Both models showed strong performance in classifying plant diseases. The ResNet model achieved superior accuracy due to the power of transfer learning.
+
+Here is the link to the live demo: https://drive.google.com/file/d/1WkhZcr1JohSVg7v_3lIfSnw99zAMW7eJ/view
+
